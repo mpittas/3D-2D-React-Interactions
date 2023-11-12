@@ -1,8 +1,8 @@
-import React from "react"
+import React from "react";
 
 export default function Header() {
   return (
-    <nav className="bg-gray-800 text-white flex justify-end items-center h-16 w-full px-10 absolute bottom-0 z-10">
+    <nav className="bg-black text-white flex justify-end items-center h-8 w-full px-10 absolute bottom-0 z-10">
       <ul className="flex items-center gap-x-8 uppercase text-xs">
         <li>
           <a href="/">Home</a>
@@ -11,9 +11,12 @@ export default function Header() {
           <a href="/about">About</a>
         </li>
         <li>
+          <a href="/monitors">Monitors</a>
+        </li>
+        <li>
           <a href="/contacts">Contacts</a>
         </li>
       </ul>
     </nav>
-  )
+  );
 }
