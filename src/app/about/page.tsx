@@ -1,5 +1,4 @@
 import React from "react";
-import Cube3d from "@/components/Cube3d";
 
 export default function About() {
   return (
