@@ -8,9 +8,9 @@ export default function Header() {
         <li>
           <Link href="/">Home</Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/about">About</Link>
-        </li>
+        </li> */}
         <li>
           <Link href="/lusion">Lusion</Link>
         </li>
@@ -23,12 +23,12 @@ export default function Header() {
         <li>
           <Link href="/rocket">Rocket</Link>
         </li>
-        <li>
+        {/* <li>
           <Link href="/contacts">Contacts</Link>
         </li>
         <li>
           <Link href="/horizontal-scroll">Horizontal Scroll</Link>
-        </li>
+        </li> */}
       </ul>
     </nav>
   )
