@@ -1,7 +1,9 @@
 ## Demo
 https://p2-mpittas.vercel.app/
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About
+
+This project combines 3D and 2D interactions in a React and Next.js web application, showcasing dynamic 3D scenes with physics simulations for balls and drones alongside traditional 2D elements. It exemplifies innovative web development by blending immersive 3D graphics with standard web interfaces, offering a unique user experience and pushing the boundaries of web-based user interfaces.
 
 ## Getting Started
 
